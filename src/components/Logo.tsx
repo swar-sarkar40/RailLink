@@ -54,7 +54,7 @@ export const Logo = ({ size = "md", className = "" }: LogoProps) => {
           animate={{ opacity: 1, x: 0 }}
           transition={{ delay: 0.4, duration: 0.5 }}
         >
-          Go
+          Link
         </motion.span>
       </div>
     </motion.div>
