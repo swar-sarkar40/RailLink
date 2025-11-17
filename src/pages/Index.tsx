@@ -290,7 +290,7 @@ const Index = () => {
             transition={{ delay: 0.5 }}
           >
             <p className="text-muted-foreground text-sm">
-              © 2024 Railway Freight System. All rights reserved.
+              © 2025 Railway Freight System. All rights reserved.
             </p>
           </motion.div>
         </div>
